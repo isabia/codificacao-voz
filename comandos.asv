@@ -1,0 +1,2 @@
+% Leitura do sinal de voz
+[y, Fs] = audioread('audio.wav');
